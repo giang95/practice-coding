@@ -1,1 +1,1 @@
-print('second commit - will be squashed')
+print('third commit - will NOT be squashed')
