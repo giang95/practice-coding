@@ -1,1 +1,3 @@
-print('Say hello')
+target = "John"
+
+print('Say hello {target}')
