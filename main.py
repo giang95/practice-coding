@@ -1,3 +1,4 @@
 target = "John"
+who = "Jeremy"
 
-print('Say hello {target}')
+print(f'{who} say hello to {target}')
