@@ -1,1 +1,1 @@
-print('first commit - will be squashed')
+print('second commit - will be squashed')
