@@ -1,1 +1,1 @@
-print('hello world jasmine 123')
+print('first commit - will be squashed')
